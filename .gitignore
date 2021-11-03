@@ -1,0 +1,4 @@
+node_modules
+dist/*
+# TODO: Copy HTML files instead of requiring them in dist repo
+!dist/index.html
